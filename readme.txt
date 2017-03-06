@@ -4,3 +4,4 @@ Git has a mutable index called stage.
 Git tracks changes of files.
 This is Second Test Origin.
 This is test Origin.
+Creating a new branch is quick.
