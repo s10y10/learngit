@@ -6,3 +6,4 @@ This is Second Test Origin.
 This is test Origin.
 Creating a new branch is quick.
 Creating a new branch is quick and simple.
+--no--ff
