@@ -8,3 +8,4 @@ Creating a new branch is quick.
 Creating a new branch is quick and simple.
 --no--ff
 will test bug branch.
+will test remote.
